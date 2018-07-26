@@ -6,6 +6,13 @@
     "symbol": "J8T",
     "decimals": 8
   },
+  "0x554c20b7c486beee439277b4540a434566dc4c02": {
+    "name": "Decision Token",
+    "logo": "hst.png",
+    "erc20": true,
+    "symbol": "HST",
+    "decimals": 18
+  },
   "0xBC86727E770de68B1060C91f6BB6945c73e10388": {
     "name": "Ink Protocol",
     "logo": "ink_protocol.svg",
